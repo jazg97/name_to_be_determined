@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" 
+<LinearLayout
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:orientation="vertical"
+	xmlns:android="http://schemas.android.com/apk/res/android">
+
+	<TextView
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:text="Shillkytech"
+		android:layout_gravity="center_horizontal"
+		andorid:textSize="25sp"
+		android:textColor="#303F9F"
+		android:layout_margin="10dp"
+		android:padding="10dp"
+		android:id="@+id/tvTitulo"/>
+# aqui hay que poner los botenes para que pasen a rellenar su perfil 
+
+	
+		
+
+
+</LinearLayout>
