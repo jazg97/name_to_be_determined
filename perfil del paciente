@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" 
+<resources>
+   <EditText
+	android:layout_width="300dp"
+	android:layout_heigth="wrap_content"
+	android_hint="Ingrese su nombre"
+	android:layout_margin="10dp"    # hay que llenar mas perfil del paciente 
+	android:layout_gravity="center_horizontal"/>
+    
+
+
+
+
+
+
+   <Button
+	android:layout_width="match_parent"
+	android:layout_height="wrap_content"
+	android:text="Guardar"/>
+</resources>
