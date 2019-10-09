@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" 
+<resources>
+    <string name="app_name">Intent</string name>
+    <string name="BotonPaciente">Paciente</string name>
+    <string name="tv1">Primer Activity</string name>
+    <string name="BotonRegreso">Regreso</string name>
+    <string name="tv2">Segundo Activity</string name>
+    <string name="BotonPadres">Padres</string name>
+    <string name="tv1">Primer Activity</string name>
+    <string name="BotonRegreso">Regreso</string name>
+    <string name="tv2">Segundo Activity</string name>
+    <string name="BotonPersonaldeSalud">PersonaldeSalud</string name>
+    <string name="tv1">Primer Activity</string name>
+    <string name="BotonRegreso">Regreso</string name>
+    <string name="tv4">Cuarto Activity</string name>
+</resources>
