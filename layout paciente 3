@@ -1,0 +1,15 @@
+#layout del paciente and padre
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmls:android="http://schemas.android.com/apk/res/android"
+	xmls:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	tools:context=".ActividadPrincipal">
+
+	<Button
+	    android:layout_width="match_parent"
+	    android:layout_height="60dp"
+	    android:text="Ejercisioshechosparati"
+	    android:id="@+id/boton_ejercisios"
+	    android:layout_gravity="center_horizontal/bottom"/>
+</Framelayout>
