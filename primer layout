@@ -1,35 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-	android:layout_width="match_parent"
-	android:layout_height="match_parent"
-	android:orientation="vertical"
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
 
-<TextView
-		android:id="@+id/Text1"
-		android:layout_width="wrap_content"
-		android:layout_height="wrap_content"
-		android:text="shillkytech"
-		android:textSize="20sp"
-		android:gravity="center"/>
+    <TextView
+        android:id="@+id/Text1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/text_shillkytech"
+        android:textSize="20sp"
+        android:gravity="center" />
     
     <Button
-		android:id="@+id/Btn1"
-		android:layout_width="wrap_content"
-		android:layout_height="wrap_content"
-		android:text="Pacientes"
-		android:textSize="20sp"/>
-    
+        android:id="@+id/Btn1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/button_pacientes"
+        android:textSize="20sp"/>
+
     <Button
-		android:id="@+id/Btn2"
-		android:layout_width="wrap_content"
-		android:layout_height="wrap_content"
-		android:text="Padres"
-		android:textSize="20sp"/>
-    
+        android:id="@+id/Btn2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/button_Padres"
+        android:textSize="20sp"/>
+
     <Button
-		android:id="@+id/Btn3"
-		android:layout_width="wrap_content"
-		android:layout_height="wrap_content"
-		android:text="Personal Medico"
-		android:textSize="20sp"/>
+        android:id="@+id/Btn3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/button_PersonalMedico"
+        android:textSize="20sp"/>
+
+</LinearLayout>
 
